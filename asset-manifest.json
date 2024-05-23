@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.js": "/salaries_analyser/static/js/main.2023f0cf.js",
+    "main.js": "/salaries_analyser/static/js/main.6f1d9f6c.js",
+    "static/js/453.308112c8.chunk.js": "/salaries_analyser/static/js/453.308112c8.chunk.js",
     "index.html": "/salaries_analyser/index.html",
-    "main.2023f0cf.js.map": "/salaries_analyser/static/js/main.2023f0cf.js.map"
+    "main.6f1d9f6c.js.map": "/salaries_analyser/static/js/main.6f1d9f6c.js.map",
+    "453.308112c8.chunk.js.map": "/salaries_analyser/static/js/453.308112c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.2023f0cf.js"
+    "static/js/main.6f1d9f6c.js"
   ]
 }
